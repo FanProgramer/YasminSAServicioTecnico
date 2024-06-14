@@ -287,6 +287,7 @@ footer {
     margin-top: 20px;
     /*width: 100%;      por si queremos ajustar la franja verde*/
     
+    
 }
 
 .dolar-section h2 {
@@ -577,6 +578,11 @@ ul li {
     img {
         max-width: 100%;
         height: auto;
+    }
+}
+@media (max-width: 600px) {
+    .cotizacion {
+        width: 90%; /* Ajusta el ancho para pantallas pequeñas */
     }
 }
 
