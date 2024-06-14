@@ -121,7 +121,7 @@ iframe {
 
 .ubicacion-titulo {
     position: absolute;
-    top: 750px; /* Ajusta la distancia desde la parte superior del contenedor */
+    top: 800px; /* Ajusta la distancia desde la parte superior del contenedor */
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(255, 255, 255, 0.8); /* Color de fondo con transparencia */
