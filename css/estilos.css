@@ -589,7 +589,5 @@ ul li {
 
 .iframe-pagina {
     width: 80%; /* Uso de porcentaje para que se ajuste automáticamente */
-    max-width: 600px; /* Máximo ancho para pantallas grandes */
-    padding: 20px;
-    border: 1px solid #ccc;
+    
     }
