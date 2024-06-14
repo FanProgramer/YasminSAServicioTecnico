@@ -370,7 +370,7 @@ textarea {
 }
 
 textarea#mensaje {
-    width: 20%; /* Reducir el ancho al 50% */
+    width: 50%; /* Reducir el ancho al 50% */
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
