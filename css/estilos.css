@@ -150,12 +150,12 @@ button:hover {
 .image-gallery {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .image-gallery img {
-    width: 500px; /* Ajusta el tamaño de las imágenes según sea necesario */
-    height: auto;
+    width: 700px; /* Ajusta el tamaño de las imágenes según sea necesario */
+    height: 200px;
     margin: 0 10px;
 }
 
