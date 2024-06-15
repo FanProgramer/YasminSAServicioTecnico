@@ -150,7 +150,7 @@ button:hover {
 .image-gallery {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    
 }
 
 .image-gallery img {
